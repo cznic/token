@@ -1,6 +1,6 @@
 # token
 
-Package token is variant of the stdlib package token with types FileSet and Token removed
+Package token is a variant of the stdlib package token with types FileSet and Token removed
 
 Installation
 
