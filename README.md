@@ -1,9 +1,5 @@
-# token
+`github.com/cznic/token` has moved to [`modernc.org/token`](https://godoc.org/modernc.org/token) ([vcs](https://gitlab.com/cznic/token)).
 
-Package token is a variant of the stdlib package token with types FileSet and Token removed
+Please update your import paths to `modernc.org/token`.
 
-Installation
-
-    $ go get [-u] github.com/cznic/token
-
-Documentation: [godoc.org/github.com/cznic/token](http://godoc.org/github.com/cznic/token)
+This repo is now archived.
